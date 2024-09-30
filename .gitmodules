@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Kartik-Rao11/chat-gpt-clone-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Kartik-Rao11/Chat-gpt-clone-backend.git
